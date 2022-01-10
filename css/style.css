@@ -19,6 +19,36 @@ img {
   width: 100px;
 }
 
+.hero-image{
+  background-image: url(/images/heroImage.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 100%;
+}
+
+#h1-hero {
+  font-family: 'Kirang Haerang', cursive;
+  color: white;
+  text-align: center;
+  height: 10%;
+  margin: 0%;
+  padding: 0%;
+  padding-top: 5%;
+}
+
+#p-hero {
+  font-family: 'Kirang Haerang', cursive;
+  color: white;
+  text-align: center;
+  height: 10%;
+  margin: 0%;
+  padding: 0%;
+  padding-top: 2%;
+} 
+
+
 #h1-black {
     font-family: 'Kirang Haerang', cursive;
     background-color:black;
