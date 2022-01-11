@@ -20,7 +20,7 @@ img {
 }
 
 .hero-image{
-  background-image: url("https://github.com/culthillhop/webDevResource/images/heroImage.jpg");
+  background-image: url("https://github.com/culthillhop/webDevResource/blob/main/images/heroImage.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
