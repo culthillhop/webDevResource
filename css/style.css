@@ -20,7 +20,7 @@ img {
 }
 
 .hero-image{
-  background-image: url("https://images.pexels.com/photos/633409/pexels-photo-633409.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  background-image: url("../webDevResource/images/heroImage.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
